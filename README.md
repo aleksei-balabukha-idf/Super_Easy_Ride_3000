@@ -28,7 +28,7 @@ Analyzed a taxi ride dataset to uncover trends, anomalies, and business insights
 ---
 
 ## 🔎 Key Insights  
-1. **Peak Demand**: 3 PM - 7 PM had 40% more rides than morning hours.  
+1. **Ride time (short rides)**: more than 50% of rides took from 1 to 20 minutes
 2. **Passenger Count**: 78% of rides had 1-2 passengers.  
 3. **Data Anomaly**: `$52` appeared 12x more frequently than adjacent values (e.g., $50/$55), suggesting potential outliers.  
 
